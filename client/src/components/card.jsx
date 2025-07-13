@@ -1,12 +1,11 @@
 import React from 'react'
 
-const App = () => {
+const card = () => {
   return (
     <div>
-      MKeducare
+      
     </div>
   )
 }
 
-export default App
-
+export default card
